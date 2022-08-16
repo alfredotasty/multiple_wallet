@@ -1,0 +1,13 @@
+.card {
+  background: rgb(255, 255, 255);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 4px;
+  cursor: "pointer";
+  width: 100%;
+  max-width: 40rem;
+  max-height: 100rem;
+  padding: 3rem;
+  margin: auto;
+  text-align: center;
+  margin-block-end: 0.5cm;
+}
