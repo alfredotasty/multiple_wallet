@@ -1,10 +1,19 @@
-# Multiple Wallet By React
+# Multiple Wallet Dapp
+This project is create a simple multiple wallet and my ERC20 token
+to send,deposit,withdraw to another account 
 
-Multiple Wallet (just like metamask) for hold ERC20 token and send. Develop by web3.js and React and Truffle.
-How to Start.
-terminal 1
-,,,npm install
-npm start ,,,
-terminal 2
-,,,truffle compile
-truffle migate,,,
+## How to use 
+
+Start the simple front-end server.
+
+```sh
+$ npm start
+  Starting the development server...
+```
+Deploy smart contract on Ganache
+
+```sh
+$truffle compile
+$truffle migrate 
+```
+
